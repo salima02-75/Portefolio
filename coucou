@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>coucou</title>
+</head>
+<body>
+<div class="items-picker">
+<div class="item-picker"></div>
+</div>
+<h1> salut salut</h1>
+
+</body>
+</html>
